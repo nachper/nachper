@@ -1,6 +1,6 @@
 - 👋 Hi, I’m J. Ignacio Pérez-López
 - 👀 I’m interested in Molecular Dynamics simulations and Structural Biology.
-- 🌱 I’m currently studying BSc Biochemistry Degree at University of Seville
+- 🌱 I’m currently studying BSc Biochemistry at University of Seville
 - 📫 Contact: naperlopez@gmail.com 
 - Twitter: nach_per
 
