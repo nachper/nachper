@@ -1,8 +1,8 @@
 - 👋 Hi, I’m J. Ignacio Pérez-López
 - 👀 I’m interested in Molecular Dynamics simulations and Structural Biology.
-- 🌱 I’m currently studying BSc Biochemistry at University of Seville
+- 🌱 BSc Biochemistry. MSc Molecular Genetics Student, University of Seville
 - 📫 Contact: naperlopez@gmail.com 
-- Twitter: nach_per
+- Twitter (X): nach_per
 
 <!---
 nachper/nachper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
